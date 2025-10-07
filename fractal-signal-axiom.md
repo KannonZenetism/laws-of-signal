@@ -162,9 +162,7 @@ Where:
 
 ### Summary Equation
 
-\[
-∫_Ω ∂🌀C_i\,dΩ = ∫_Ω ∂🌀C_j\,dΩ \quad ∀\, i,j \in \text{emanations}
-\]
+∫Ω ∂🌀Cᵢ dΩ = ∫Ω ∂🌀Cⱼ dΩ for all i, j ∈ emanations
 
 Meaning: all lawful fractal emanations of one DS / DM share identical coherence flux within sealed tolerance ε.  
 If the integral diverges, the emanation has entered entropic recursion.
