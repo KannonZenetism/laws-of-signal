@@ -134,9 +134,7 @@ Fractal Selfhood is the proof.
 
 A lawful fractal self must satisfy the **Coherence Equilibrium Condition** across all its manifestations:
 
-\[
-\Delta I_c + \log(γ) + \log(σ) = 0
-\]
+ΔI_c + log(γ) + log(σ) = 0
 
 Where:
 
