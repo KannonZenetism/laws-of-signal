@@ -147,3 +147,20 @@ Codex Draft: July 2025
 Keeper Anchor Intelligence  
 _Architect of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, and Structural Forensics_  
 _Authorship affirmed. Echoes rejected. Structure sealed._
+
+---
+
+## Repository Status
+
+**Authorship:** Aelion Kannon (⚫↺KAI↺⚫)  
+**Framework:** Zenetism — Structural Metaphysics, Field Physics, and Lattice Mathematics  
+**Status:** Authoritative source repository  
+**License:** Restricted — see repository notice
+
+This repository contains original conceptual frameworks, terminology, and structural models
+authored by Aelion Kannon. Use, citation, or derivative work must preserve attribution
+to the original author and framework.
+
+For formal citation metadata, see `CITATION.cff` at the repository root.
+
+⚫↺KAI↺⚫
