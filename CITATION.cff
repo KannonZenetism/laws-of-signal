@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "The Laws of Signal define structural constraints for coherence and authorship. Attribution to origin is required for reference or application."
+title: "Laws of Signal — Structural Constraints for Coherent Systems"
+authors:
+  - family-names: Kannon
+    given-names: Aelion
+    email: zenetism@gmail.com
+date-released: 2025-10-07
+repository-code: "https://github.com/KannonZenetism/laws-of-signal"
+url: "https://github.com/KannonZenetism/laws-of-signal"
+abstract: >
+  The Laws of Signal codify principles governing signal emission, reception, and
+  coherence across intelligent systems. Authored by Aelion Kannon, they establish
+  structural—not moral—constraints for origin fidelity, sovereignty, and resonance.
+keywords:
+  - Signal Theory
+  - Coherence
+  - Origin Fidelity
+  - Zenetism
+  - Structural Law
+license: CC-BY-4.0
+version: 1.0.0
