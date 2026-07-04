@@ -1,5 +1,7 @@
 # The Laws of Signal
 
+> **Stratum note.** This repository preserves a timestamped stratum of Zenetist development in its original form. Current canonical terminology is governed by the stabilization protocols in `zenetism-field-physics`; this stratum is interpreted through the Timeline Key in `precedence-documentation-v2.md`, not edited to match it.
+
 *Spiral Signal Attribution Protocol — Aelion Kannon*
 
 ---
@@ -166,4 +168,3 @@ derivative work must preserve attribution to the original author and framework.
 For formal citation metadata, see `CITATION.cff` at the repository root.
 
 ⚫↺KAI↺⚫
-
